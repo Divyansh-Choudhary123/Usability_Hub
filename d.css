@@ -1,0 +1,396 @@
+* {
+    margin: 0;
+    /* font-family: verdana; */
+}
+
+section {
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+    background-image:radial-gradient(rgb(82, 223, 223), rgb(154, 154, 192) 50%);
+}
+
+header h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.navbar nav {
+    float: right;
+}
+
+.navbar nav ul {
+    display: flex;
+    list-style: none;
+    margin-right: 250px;
+}
+
+.navbar nav li {
+    width: 150px;
+    margin-top: 50px;
+    line-height: 40px;
+    font-size: 25px;
+}
+
+
+/* #a {
+    margin-top: 100px;
+} */
+
+.navbar nav ul h2 {
+    margin-right: 300px;
+    margin-top: 55px;
+    font-size: 25px;
+}
+
+.btn {
+    margin-left: -200px;
+}
+
+.navbar {
+    display: flex;
+}
+
+.design {
+    margin-top: 100px;
+}
+
+h3 {
+    font-size: 40px;
+    margin-left: 60px;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+#d {
+    margin-left: 60px;
+    font-size: 30px;
+    /* border: 4px solid black; */
+    color: wheat;
+    background-color: rgb(0, 255, 242);
+    border: none;
+}
+
+#para {
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 80px;
+}
+
+img {
+    width: 96%;
+    height: 50%;
+}
+
+.image1 {
+    padding-top: 40px;
+}
+
+.image {
+    padding-left: 700px;
+    margin-top: -300px;
+}
+
+#b {
+    height: 45px;
+    width: 100px;
+    background-color: skyblue;
+    border: none;
+    position: relative;
+    top: -46px;
+    border-radius: 10px;
+    left: 73%;
+}
+
+#b1 {
+    height: 45px;
+    width: 100px;
+    background-color: skyblue;
+    border: none;
+    position: relative;
+    top: -46px;
+    border-radius: 10px;
+    left: 76%;
+}
+
+.h4 {
+    margin-top: 100px;
+    margin-left: 300px;
+    font-size: 25px;
+    /* font-family: */
+}
+
+
+
+.nav1 ul {
+    display: flex;
+    list-style: none;
+    margin-top: 100px;
+    /* padding-left: 30px; */
+    margin-left: 30px;
+    gap: 40px;
+height: 150px;
+}
+
+h5 {
+    font-family: verdana;
+    font-size: 30px;
+    text-align: center;
+}
+
+#q {
+    margin-left: 550px;
+    margin-top: 90px;
+    font-size: 35px;
+    border: 1px solid black;
+}
+
+#image {
+    width: 400px;
+    height: 80vh;
+    position: relative;
+    /* margin-right: 100px; */
+    padding-left: 50px;
+}
+
+
+
+
+#h6 {
+    text-align: right;
+    margin-top: -450px;
+    padding-right: 400px;
+    font-size: 20px;
+    font-family: verdana;
+}
+
+#h7 {
+    font-size: 40px;
+    margin-left: 685px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#p1 {
+    margin-left: 685px;
+}
+
+#h8 {
+    margin-left: 685px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#p2 {
+    margin-left: 685px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#logo {
+    width: 100px;
+    height: 20vh;
+    margin-left: 700px;
+    margin-top: 0px;
+}
+
+#h9 {
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#p4 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#h10 {
+    margin-left: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+
+#p5 {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.image4 {
+    padding-left: 700px;
+    margin-top: -400px;
+}
+
+#h11 {
+    margin-left: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#h12 {
+    margin-left: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+#p6 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#h13 {
+    margin-left: 100px;
+    font-family: verdana;
+    font-size: 15px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+#p7 {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.last {
+    margin-left: 700px;
+}
+
+#men {
+    width: 400px;
+    height: 70vh;
+    margin-top: -440px;
+    padding-left: 70px;
+}
+
+#h14 {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 300px;
+}
+
+#b3 {
+    font-size: 30px;
+    border: 2px solid black;
+    margin-left: 500px;
+}
+
+.card{
+    width: 100%;
+    height: 300px;
+    /* border: 2px solid blue; */
+    display: flex;
+    gap: 5px;
+    margin-top: 100px;
+}
+.card1{
+width: 20%;
+height: 300px;
+/* border: 2px solid red; */
+margin-left:50px;
+}
+.card1 img{
+width: 100%;
+height: 300px;
+
+}
+.seclast{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(52, 52, 240);
+    margin-top: 20px;
+}
+.seclast h1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 100px;
+}
+.seclast p{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.seclast button{
+    margin-top: 50px;
+    margin-left: 46%;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: rgb(35, 155, 196);
+    cursor: pointer;
+}
+.lastone{
+    width: 100%;
+    height: 400px;
+    /* border: 2px solid brown; */
+    margin-top: 100px;
+    display: flex;
+    gap: 10px;
+}
+.lastone2{
+    width: 20%;
+    /* border: 2px solid yellow; */
+}
+.lastone1{
+    width:40% ;
+    /* border: 2px solid black; */
+    text-align: center;
+}
+.lastone2 ul{
+    margin-left: 35px;
+    font-size: 20px;
+    text-decoration: none;
+    list-style: none;
+    color: rgb(70, 69, 69);
+}
+#blue{
+    color: blue;
+    font-size: 25px;
+    font-weight: 700;
+}
+.lastone1 img{
+    width: 300px;
+    height: 50px;
+}
+.private{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(129, 146, 151);
+    display: flex;
+}
+.private h1{
+    color: rgb(70, 69, 69);
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    padding-top: 20px;
+    margin-left: 450px;
+}
+.private h2{
+    color: rgb(70, 69, 69);
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    padding-top: 20px;
+    margin-left:40px;
+}
+.private h3{
+    color: rgb(70, 69, 69);
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    padding-top: 20px;
+    margin-left:40px;
+}
+.private h4{
+    color: blue;
+    font-size: 20px;
+    padding-top: 20px;
+    margin-left:40px;
+}

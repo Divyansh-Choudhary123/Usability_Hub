@@ -1,0 +1,25 @@
+img { width: 100%; height: 100%; } .row { width: 100%; padding: 20px; } .row .col-lg-6 { height: 400px; /* background-color: red; */ }
+</style>
+</head>
+
+<body>
+    <section class="abc">
+        <div class="row">
+            <div class="col-lg-6">
+                <h1 class="text-dark">this is heading</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias corrupti culpa asperiores incidunt cupiditate hic molestias tempora dignissimos? Ipsam omnis enim nulla quod, dolore, dolorem, repellat quis corrupti reprehenderit molestias
+                    pariatur magni vero voluptas eveniet quia suscipit adipisci exercitationem rerum? Nisi perferendis culpa unde id ut, repudiandae earum aliquam voluptates eius cumque aliquid officiis excepturi, eveniet iste commodi, nulla cum. Dolor
+                    blanditiis facere quidem est eaque quis, ut odio sint excepturi quas quibusdam error cupiditate magnam aliquid assumenda, odit iste accusamus animi aperiam ab sunt reiciendis, laudantium sed enim. Possimus eveniet nesciunt ipsum quod
+                    atque totam, facere voluptatum illum officia, fugit aspernatur voluptas, repellat aut porro corrupti dolorem quis. In nihil blanditiis ad earum dolore quos architecto, rerum, exercitationem excepturi reprehenderit consequatur quisquam!
+                    Maiores excepturi</p>
+            </div>
+            <div class="col-lg-6">
+                <img src="abdul kalam.jpg" alt="">
+            </div>
+
+    </section>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</html>

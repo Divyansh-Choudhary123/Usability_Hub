@@ -1,0 +1,25 @@
+<div class="row2">
+    <div class="img1">
+        <img src="3.jpg" width="100%" height="100%">
+        <div class="layer">
+            <h4><a href="https://collegedunia.com/courses/bachelor-of-computer-applications-bca">BCA</a></h4>
+        </div>
+    </div>
+
+
+    <div class="img1">
+        <img src="2.jpg" width="100%" height="100%">
+        <div class="layer">
+            <h4><a href="https://collegedunia.com/mba-colleges"> MBA</a> </h4>
+        </div>
+
+    </div>
+
+
+    <div class="img1">
+        <img src="1.jpg" width="100%" height="100%">
+        <div class="layer">
+            <h4><a href="https://collegedunia.com/btech-colleges"> B.TECH</a> </h4>
+        </div>
+    </div>
+</div>
